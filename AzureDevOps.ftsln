@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0-trunk
+Project("") = "purchase_headphones", "purchase_headphones\Test.tsp", "9E37BBA1-A1D2-4F80-9DF3-5549735D0D22"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\demo\Documents\GitHub\ado_uft\purchase_headphones\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+	EndProjectSection
+EndProject
+Project("") = "purchase_tablets", "purchase_tablets\Test.tsp", "F54BCB4F-1A38-4211-9CB8-196627A51190"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\demo\Documents\GitHub\ado_uft\purchase_tablets\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		9E37BBA1-A1D2-4F80-9DF3-5549735D0D22.Debug|Any CPU.Build.0 = Debug|Any CPU
+		9E37BBA1-A1D2-4F80-9DF3-5549735D0D22.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		9E37BBA1-A1D2-4F80-9DF3-5549735D0D22.Release|Any CPU.Build.0 = Release|Any CPU
+		9E37BBA1-A1D2-4F80-9DF3-5549735D0D22.Release|Any CPU.ActiveCfg = Release|Any CPU
+		F54BCB4F-1A38-4211-9CB8-196627A51190.Debug|Any CPU.Build.0 = Debug|Any CPU
+		F54BCB4F-1A38-4211-9CB8-196627A51190.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		F54BCB4F-1A38-4211-9CB8-196627A51190.Release|Any CPU.Build.0 = Release|Any CPU
+		F54BCB4F-1A38-4211-9CB8-196627A51190.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
